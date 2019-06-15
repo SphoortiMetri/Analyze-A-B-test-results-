@@ -5,15 +5,15 @@ The company has developed a new web page in order to try and increase the number
 Should the company implement this new page, keep the old page, or perhaps run the experiment longer to make their decision?
 
 #### What do I need to install?
-pandas
-NumPy
-Matplotlib
+1. pandas
+2. NumPy
+3. Matplotlib
 
 #### The code is divided into 3 categories: 
 
-Part I - Probability
-Part II - A/B Test
-Part III - Regression
+1. Part I - Probability
+2. Part II - A/B Test
+3. Part III - Regression
 
 
 
