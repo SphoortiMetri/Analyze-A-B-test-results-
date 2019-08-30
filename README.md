@@ -9,11 +9,11 @@ Should the company implement this new page, keep the old page, or perhaps run th
 2. NumPy
 3. Matplotlib
 
-#### The code is divided into 3 categories: 
+#### The code is divided into 3 parts: 
 
-1. Part I - Probability
-2. Part II - A/B Test
-3. Part III - Regression
+1. Probability
+2. A/B Test
+3. Regression
 
 
 
